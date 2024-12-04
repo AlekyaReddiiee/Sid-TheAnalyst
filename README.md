@@ -1,4 +1,5 @@
-![logo](https://github.com/Sid-TheAnalyst/Sid-TheAnalyst/blob/main/GitHub_Background.png)
+![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/36f8a3bd-70d7-4ce4-b579-8530dd7e3e07)
+
 <h1 align="center">Hi 👋, I'm Siddharth Prajapati</h1>
 <h3 align="center">Passionate Data Analyst & Aspiring Data Scientist</h3>
 
